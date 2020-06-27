@@ -1,0 +1,44 @@
+.main{
+    border: 2px solid gray;
+    width: 172px;
+    margin: 0 auto;
+    border-radius: -34px;
+}
+
+.result{
+    width: 95%;
+    background-color: lightyellow;
+    color: black;
+
+}
+.clearBTN{
+    width: 100%;
+    margin-top: 10px;
+    background-color: yellow;
+    border-radius: 54px;
+
+}
+
+.clear{
+    background-color: tomato;
+    width: 35px;
+    margin: 1.9px;
+}
+.half{
+    background-color: brown;
+    width: 40px;
+    margin-top: 2px ;
+}
+
+.clear1{
+    background-color: rgb(140, 190, 236);
+    width: 35px;
+    margin: 1.9px;
+}
+
+
+.half2{
+    background-color: thistle;
+    width: 40px;
+    margin-top: 2px ;
+}
